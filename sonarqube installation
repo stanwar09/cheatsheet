@@ -6,5 +6,6 @@ sudo apt install unzip
 https://binaries.sonarsource.com/Distribution/sonarqube/sonarqube-10.1.0.73491.zip
 unzip sonarqube-10.1.0.73491.zip 
 cd sonarqube-10.1.0.73491/
+cd bin
 cd linux-x86-64/
 ./sonar.sh console
