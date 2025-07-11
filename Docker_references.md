@@ -3,7 +3,7 @@
 
 ## Docker basic commands:
 Docker_references.md 
-updated new commit
+ oonce more updated new commit
 - docker info —>info about how many containers,images e.t.c
 - docker <mngmt commands><sub-commands><options> —>docker command format , older way is - -docker <command><options> ((both works)
 - docker container run --publish 80:80 --detach nginx —> to start container in background
