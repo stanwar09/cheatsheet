@@ -4,6 +4,6 @@ https://awstip.com/installing-sonarqube-on-aws-ec2-instance-and-integrating-it-w
 
 Download the spring-boot application from repository at any specific location
 
-```bash
+```bash new
 sudo git clone https://github.com/TheCloudWorld/spring-boot-demo-app.git
 ```
